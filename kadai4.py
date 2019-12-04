@@ -78,14 +78,3 @@ while num < 46:
     jinko_den = round(jinko_sum/menseki_sum*1000 ,1)
     print(chiho[num]," \n    総面積   :",menseki_sum,"km^2 \n    総人口   :",jinko_sum,"千人  \n    人口密度 :",jinko_den,"人口/km^2") 
     num += 1
-
-
-    
-
-
-
-
-
-
-
-
